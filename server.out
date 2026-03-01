@@ -1,0 +1,5 @@
+
+> google-play-api@1.3.0 start
+> node server.js
+
+Server started on port 3000

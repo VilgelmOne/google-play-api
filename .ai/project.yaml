@@ -1,0 +1,7 @@
+name: google-play-api
+type: tool
+status: frozen
+category: COLD
+language: javascript
+tags:
+  - api
