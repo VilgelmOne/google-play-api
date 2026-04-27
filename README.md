@@ -1,5 +1,52 @@
 # google-play-api
 
+turn google play scraper into a RESTful API
+
+## Overview
+
+| Field | Value |
+|---|---|
+| Repository | `google-play-api` |
+| Type | Node.js project |
+| Visibility | Public |
+| Default branch | `main` |
+| Primary language | JavaScript |
+
+## What This Repo Contains
+
+- JavaScript/TypeScript package metadata in `package.json`.
+
+## Tech Stack
+
+- Node.js
+- Express
+
+## Project Structure
+
+- `.github/` - GitHub workflows and repo automation
+- `lib/` - project files
+
+## Quick Start
+
+```bash
+npm install
+npm start
+```
+
+## Development Commands
+
+| Command | Description |
+|---|---|
+| `npm start` | Runs the `start` script. |
+
+## Notes
+
+- This README was generated from repository metadata and committed project files.
+- Secret values, local databases, and machine-specific artifacts are intentionally excluded.
+- Verify commands against the current code before using them in production.
+
+## Existing Documentation
+
 Turns [google-play-scraper](https://github.com/facundoolano/google-play-scraper/) into a RESTful API.
 
 To run locally:
